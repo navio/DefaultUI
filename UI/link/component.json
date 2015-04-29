@@ -1,0 +1,17 @@
+{
+  "name": "link",
+  "repository": "UI/link",
+  "description": "Link Component",
+  "version": "0.0.1",
+  "keywords": ["Link", "link", "ui"],
+  "dependencies": {
+  },
+  "templates" : ["template/link.html"],
+  "scripts": [],
+  "parameters":[
+    {"url":"type","type":"String"},
+    {"target":"type","type":"String"}
+  ],
+  "styles": ["css/styles.css"],
+  "license": "Alberto Navarro"
+}
